@@ -1,3 +1,33 @@
+Cara Mengerjakan Tugas:
+
+1.	buka folder yang sudah terinstall Node js, buka cmd pada folder tersebut   dan ketik perintah “code .”
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/6f7376d4-7b69-4ac8-87f8-5fa816cdd631)
+
+3.	Buka pada bagian src/app.js
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/c580df0a-dc67-4eb8-a046-f05b3dd536af)
+
+4.	Untuk menjalankan aplikasi klik terminal -> new terminal -> Ketik “npm start”
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/b3adb7c0-4f3d-4627-b873-9732e270723b)
+
+5.	Tampilan default jika node js sudah berjalan
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/9881b6b8-9bb1-4623-9cd9-6a93bf42f734)
+
+B.	Mengubah Tampilan node.js
+1.	Untuk mengubah tampilan aplikasi kita bisa mengubah pada bagian app.js
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/043edfcc-c864-4bd7-b0e6-a9910682c4b5)
+ 
+3.	Menambahkan div, p, h, dan image
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/2b197587-743c-4fd3-a7fe-a8c21bb0f2bf)
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/e6b3e174-c6a8-4cf3-9b61-094fb80aaf9b)
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/adb15979-ec09-4ef3-906f-0a2bd2a40e36) 
+ 
+4.	Menambahkan css di App.css untuk tampilan aplikasi
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/316e625d-3840-4ddd-9f67-d386935e48c8)
+ 
+5.	Hasil run setelah kode di edit
+![image](https://github.com/MusthafaLuthfi76/Tugas10_20220140201_D/assets/127088713/8ffd310c-c0bc-431f-9284-fc259d685311)
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
